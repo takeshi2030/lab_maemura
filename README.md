@@ -1,4 +1,4 @@
-# Olá prassoal =)
+# Olá pessoal =)
 
 Meu primeiros passos no Github.
 Readme do Repositório.
