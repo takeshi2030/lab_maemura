@@ -1,6 +1,6 @@
 # Olá pessoal =)
 
-Meu primeiros passos no Github.
+Meus primeiros passos no Github.
 Readme do Repositório.
 
 Let's go!
